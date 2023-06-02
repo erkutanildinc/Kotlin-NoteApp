@@ -11,4 +11,4 @@ Noteit! is a note application that created by Kotlin and Sql Lite. User can ente
 
 ## Adding Note
 
-  ![noteapp](https://github.com/erkutanildinc/Kotlin-NoteApp/assets/81919398/9e6df40a-ee93-4ecb-9820-89cd713ad008)
+  ![newnoteapp](https://github.com/erkutanildinc/Kotlin-NoteApp/assets/81919398/92c332f2-807a-4721-8974-e65da9cd7033)
